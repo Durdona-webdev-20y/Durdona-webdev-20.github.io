@@ -4,11 +4,11 @@
 }
 
 body {
-    background-image: linear-gradient(rgb(180, 190, 27),rgb(245, 178, 189),rgb(224, 196, 33));
+    background-image: linear-gradient(rgb(111, 211, 216), rgb(241, 106, 255), rgb(118, 124, 175));
 }
 
 #header-nav {
-    background-color: crimson;
+    background-color: #ff7636;
     border-radius: 0;
     border: 0;
     height: 60px;
